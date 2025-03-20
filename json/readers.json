@@ -1,0 +1,226 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "index" : 0,
+      "direction": null,
+      "englishName": "Abdul Basit",
+      "format": "audio",
+      "identifier": "ar.abdulbasitmurattal",
+      "language": "ar",
+      "version" : 192,
+      "name": "\u0639\u0628\u062f \u0627\u0644\u0628\u0627\u0633\u0637 \u0639\u0628\u062f \u0627\u0644\u0635\u0645\u062f \u0627\u0644\u0645\u0631\u062a\u0644",
+      "type": "translation"
+    },
+    {
+      "direction": null,
+      "index" : 1,
+      "englishName": "Abdullah Basfar",
+      "format": "audio",
+      "identifier": "ar.abdullahbasfar",
+      "version" : 192,
+      "language": "ar",
+      "name": "\u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u0628\u0635\u0641\u0631",
+      "type": "versebyverse"
+    },
+    {
+      "direction": null,
+      "index" : 2,
+      "englishName": "Abdurrahmaan As-Sudais",
+      "format": "audio",
+      "identifier": "ar.abdurrahmaansudais",
+      "version" : 192,
+      "language": "ar",
+      "name": "\u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u0633\u062f\u064a\u0633",
+      "type": "versebyverse"
+    },
+    {
+      "direction": null,
+      "index" : 3,
+      "englishName": "Abdul Samad",
+      "format": "audio",
+      "identifier": "ar.abdulsamad",
+      "language": "ar",
+      "version" : 64,
+      "name": "\u0639\u0628\u062f\u0627\u0644\u0628\u0627\u0633\u0637 \u0639\u0628\u062f\u0627\u0644\u0635\u0645\u062f",
+      "type": "versebyverse"
+    },
+    {
+      "direction": null,
+      "index" : 4,
+      "englishName": "Abu Bakr Ash-Shaatree",
+      "format": "audio",
+      "identifier": "ar.shaatree",
+      "language": "ar",
+      "version" : 128,
+      "name": "\u0623\u0628\u0648 \u0628\u0643\u0631 \u0627\u0644\u0634\u0627\u0637\u0631\u064a",
+      "type": "versebyverse"
+    },
+    {
+      "direction": null,
+      "index" : 5,
+      "englishName": "Ahmed ibn Ali al-Ajamy",
+      "format": "audio",
+      "identifier": "ar.ahmedajamy",
+      "language": "ar",
+      "version" : 128,
+      "name": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0639\u0644\u064a \u0627\u0644\u0639\u062c\u0645\u064a",
+      "type": "versebyverse"
+    },
+    {
+      "direction": null,
+      "index" : 6,
+      "englishName": "Alafasy",
+      "format": "audio",
+      "identifier": "ar.alafasy",
+      "version" : 128,
+      "language": "ar",
+      "name": "\u0645\u0634\u0627\u0631\u064a \u0627\u0644\u0639\u0641\u0627\u0633\u064a",
+      "type": "versebyverse"
+    },
+    {
+      "direction": null,
+      "index" : 7,
+      "englishName": "Hani Rifai",
+      "format": "audio",
+      "identifier": "ar.hanirifai",
+      "language": "ar",
+      "version" : 192,
+      "name": "\u0647\u0627\u0646\u064a \u0627\u0644\u0631\u0641\u0627\u0639\u064a",
+      "type": "versebyverse"
+    },
+    {
+      "direction": null,
+      "index" : 8,
+      "englishName": "Husary",
+      "format": "audio",
+      "identifier": "ar.husary",
+      "version" : 128,
+      "language": "ar",
+      "name": "\u0645\u062d\u0645\u0648\u062f \u062e\u0644\u064a\u0644 \u0627\u0644\u062d\u0635\u0631\u064a",
+      "type": "versebyverse"
+    },
+    {
+      "direction": null,
+      "index" : 9,
+      "englishName": "Husary (Mujawwad)",
+      "format": "audio",
+      "identifier": "ar.husarymujawwad",
+      "version" : 128,
+      "language": "ar",
+      "name": "\u0645\u062d\u0645\u0648\u062f \u062e\u0644\u064a\u0644 \u0627\u0644\u062d\u0635\u0631\u064a (\u0627\u0644\u0645\u062c\u0648\u062f)",
+      "type": "versebyverse"
+    },
+    {
+      "direction": null,
+      "index" : 10,
+      "englishName": "Hudhaify",
+      "format": "audio",
+      "identifier": "ar.hudhaify",
+      "language": "ar",
+      "version" : 128,
+      "name": "\u0639\u0644\u064a \u0628\u0646 \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u062d\u0630\u064a\u0641\u064a",
+      "type": "versebyverse"
+    },
+    {
+      "direction": null,
+      "index" : 11,
+      "englishName": "Ibrahim Akhdar",
+      "format": "audio",
+      "identifier": "ar.ibrahimakhbar",
+      "version" : 32,
+      "language": "ar",
+      "name": "\u0625\u0628\u0631\u0627\u0647\u064a\u0645 \u0627\u0644\u0623\u062e\u0636\u0631",
+      "type": "versebyverse"
+    },
+    {
+      "direction": null,
+      "index" : 12,
+      "englishName": "Maher Al Muaiqly",
+      "format": "audio",
+      "identifier": "ar.mahermuaiqly",
+      "language": "ar",
+      "version" : 128,
+      "name": "\u0645\u0627\u0647\u0631 \u0627\u0644\u0645\u0639\u064a\u0642\u0644\u064a",
+      "type": "versebyverse"
+    },
+    {
+      "direction": null,
+      "index" : 13,
+      "englishName": "Minshawi",
+      "format": "audio",
+      "identifier": "ar.minshawi",
+      "version" : 128,
+      "language": "ar",
+      "name": "\u0645\u062d\u0645\u062f \u0635\u062f\u064a\u0642 \u0627\u0644\u0645\u0646\u0634\u0627\u0648\u064a",
+      "type": "translation"
+    },
+    {
+      "direction": null,
+      "index" : 14,
+      "englishName": "Minshawy (Mujawwad)",
+      "format": "audio",
+      "identifier": "ar.minshawimujawwad",
+      "language": "ar",
+      "version" : 64,
+      "name": "\u0645\u062d\u0645\u062f \u0635\u062f\u064a\u0642 \u0627\u0644\u0645\u0646\u0634\u0627\u0648\u064a (\u0627\u0644\u0645\u062c\u0648\u062f)",
+      "type": "translation"
+    },
+    {
+      "direction": null,
+      "index" : 15,
+      "englishName": "Muhammad Ayyoub",
+      "format": "audio",
+      "identifier": "ar.muhammadayyoub",
+      "version" : 128,
+      "language": "ar",
+      "name": "\u0645\u062d\u0645\u062f \u0623\u064a\u0648\u0628",
+      "type": "versebyverse"
+    },
+    {
+      "direction": null,
+      "index" : 16,
+      "englishName": "Muhammad Jibreel",
+      "format": "audio",
+      "identifier": "ar.muhammadjibreel",
+      "language": "ar",
+      "version" : 128,
+      "name": "\u0645\u062d\u0645\u062f \u062c\u0628\u0631\u064a\u0644",
+      "type": "versebyverse"
+    },
+    {
+      "direction": null,
+      "index" : 17,
+      "englishName": "Ibrahim Walk",
+      "format": "audio",
+      "identifier": "en.walk",
+      "language": "en",
+      "name": "Ibrahim Walk",
+      "version" : 192,
+      "type": "versebyverse"
+    },
+    {
+      "direction": null,
+      "index" : 18,
+      "englishName": "Parhizgar",
+      "format": "audio",
+      "identifier": "ar.parhizgar",
+      "language": "ar",
+      "version" : 48,
+      "name": "\u0634\u0647\u0631\u06cc\u0627\u0631 \u067e\u0631\u0647\u06cc\u0632\u06af\u0627\u0631",
+      "type": "versebyverse"
+    },
+    {
+      "direction": null,
+      "index" : 19,
+      "englishName": "Ayman Sowaid",
+      "format": "audio",
+      "identifier": "ar.aymanswoaid",
+      "language": "ar",
+      "version" : 64,
+      "name": "\u0623\u064a\u0645\u0646 \u0633\u0648\u064a\u062f",
+      "type": "versebyverse"
+    }
+  ],
+  "status": "OK"
+}
