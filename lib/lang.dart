@@ -5,7 +5,7 @@ import 'dart:convert';
 import 'package:flutter/services.dart';
 
 class LanguageManager {
-  var data;
+  var data, something;
   bool loading = true;
 
   Future<void> load() async {
